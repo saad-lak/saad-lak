@@ -6,10 +6,10 @@ Welcome! 👋 I'm Saad, a software engineering student at **University of Techno
 
 ## 🚀 About Me
 
-- **Current Role**: Software & Cloud Architect Intern at AXA GO
-- **Interests**: Systems Architecture, Networking, Machine Learning, Mathematics, and Cloud Solutions
-- **Languages**: Python, GoLang, C++ and Bash
-- **Tools and Platforms**: Azure, Docker, Git, Databricks, Jupyter Notebooks, Next.js
+- **Current Role**: Software & Cloud Architect at AXA GO
+- **Interests**: Systems Architecture, Cloud Solutions, DevOps, Networking and Machine Learning.
+- **Languages**: Python, GoLang, JAVA, C++ and Bash
+- **Tools and Platforms**: Azure, Docker, Git, Kubernetes and Databricks.
 
 ## 🎓 Education
 
@@ -45,7 +45,7 @@ For a complete list of my projects, check out my [repositories](https://github.c
 
 ## 📫 Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saad-lakramti) or reach out via [email](mailto:saad.lakramti@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saadlakramti) or reach out via [email](mailto:saad.lakramti@gmail.com).
 
 ---
 

@@ -1,12 +1,12 @@
-# Saad Lakramti's GitHub
+# Welcome to my Github !
 
-Welcome! 👋 I'm Saad, a software engineering student at **University of Technology of Compiegne (UTC)** and a Software & Cloud Architect apprentice specializing in **Azure**. I'm passionate about building scalable, secure, and efficient systems. My topics of interest are **Systems Architecture**, **Multi-Agent Systems** and **Machine Learning**.
+👋 I'm Saad, a software engineering student at the **University of Technology of Compiegne (UTC)** and a Software & Cloud Architect apprentice specializing in **Azure**. I'm passionate about building scalable, secure, and efficient systems. My topics of interest are **Systems Architecture**, **Multi-Agent Systems** and **Machine Learning**.
 
 ---
 
 ## 🚀 About Me
 
-- **Current Role**: Software & Cloud Architect at AXA GO
+- **Current Role**: Software & Cloud Architect
 - **Interests**: Systems Architecture, Cloud Solutions, DevOps, Networking and Machine Learning.
 - **Languages**: Python(Pytorch, Scikit-learn, Optuna, Pandas, Seaborn...), GoLang, JAVA (Spring Boot), JavaScript (React.js, Node.js and Express.js), C++ and Bash
 - **Tools and Platforms**: Azure, Docker, Git, Kubernetes and Databricks.
